@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a239e1df-658d-4519-be19-a95638037b95",
+    "title": "Government Hospital",
+    "description": "Public healthcare facility for general medical services and emergencies.",
+    "category": "Healthcare",
+    "location": "Local Area",
+    "contact": "108",
+    "website": "https://www.mohfw.gov.in/",
+    "addedBy": null,
+    "createdAt": "2026-10-07T13:17:18.595Z"
+  },
+  {
+    "id": "fd5d7e7c-d435-4533-ba84-86adef95020b",
+    "title": "Police Emergency",
+    "description": "For immediate police assistance and emergencies.",
+    "category": "Emergency",
+    "location": "Local Area",
+    "contact": "112",
+    "website": "https://112.gov.in/",
+    "addedBy": null,
+    "createdAt": "2026-10-07T13:17:18.595Z"
+  },
+  {
+    "id": "600c41b7-d12d-4f28-91fb-75174392f5e0",
+    "title": "Ambulance Service",
+    "description": "Emergency ambulance assistance.",
+    "category": "Emergency",
+    "location": "India",
+    "contact": "108",
+    "website": "https://www.mohfw.gov.in/",
+    "addedBy": null,
+    "createdAt": "2026-10-07T13:17:18.595Z"
+  },
+  {
+    "id": "4de3bfea-b659-477e-8b7e-4387b7c3a1c0",
+    "title": "Municipal Civic Services",
+    "description": "Information and links for civic services and public complaints.",
+    "category": "Civic",
+    "location": "Local Area",
+    "contact": "",
+    "website": "https://www.india.gov.in/",
+    "addedBy": null,
+    "createdAt": "2026-10-07T13:17:18.595Z"
+  }
+]
